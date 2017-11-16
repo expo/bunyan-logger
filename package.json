@@ -1,6 +1,6 @@
 {
-  "name": "koa-bunyan-logger",
-  "version": "2.0.0",
+  "name": "@expo/koa-bunyan-logger",
+  "version": "2.1.0",
   "description": "Koa middleware for logging requests using bunyan",
   "main": "index.js",
   "engines": {
@@ -26,8 +26,8 @@
   "author": "Pebble Technology <webteam@getpebble.com>",
   "license": "MIT",
   "dependencies": {
-    "bunyan": "~1.5.0",
-    "on-finished": "~2.1.1",
+    "bunyan": "~1.8.10",
+    "on-finished": "~2.3.0",
     "uuid": "^3.0.0"
   },
   "devDependencies": {
